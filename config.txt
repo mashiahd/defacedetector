@@ -1,0 +1,6 @@
+log_loc=/var/log/deface_detector.log
+syslog_remote_ip=127.0.0.1
+apps_path=/opt/deface_detector/apps.txt
+dump_path=/tmp/dd_temp
+prd_status_loc=/tmp/status.csv
+tmp_status_loc=/opt/deface_detector/status.csv
